@@ -45,6 +45,21 @@ Work experience
 * 2021 - Member, ETSI Standardization Committee
 * 2020 - Senior Member, IEEE
 * 2022 - Member, CCF
-*2022 - Senior Member, Communications Association
+* 2022 - Senior Member, Communications Association
+
+Awards Received
+=======
+* [1]. Zou Sai, Recipient of Guizhou Provincial Thousand Talents Innovation Program in 2022, Qianrenlingbanfa (2021) No. 4, 5G Network Slice Intelligent Orchestration System.
+* [2]. Zou Sai, Wang Wenyong, Yu Haisheng, Gao Hongfeng, Huang Lisheng, Tang Yong, Xiao Lei, Shang Chen, Li Peng, Xie Mingshan. First Prize for the China Commercial Federation Scientific and Technological Progress Award in 2022 for "Key Technologies and Applications for Deterministic Cloud-Network-Edge-End Collaborative Orchestration".
+* [3]. Wang Wenyong, Zou Sai, Zheng Chengyu, Chen Xiaolong, Huang Lisheng, Tang Yong, Yu Haisheng, Lin Hai, Wu Junrui. Second Prize for the China Institute of Communications Science and Technology Progress Award in 2022 for "Key Technologies and Applications for Deterministic Transmission across Layers and Domains in the Internet".
+* [4]. Zou Sai, Wang Lei, Xiao Shan, Huang Chengguo, Li Faping, Zhang Yuanyuan, Li Faming, Xu Lei, Xiao Lei. First Prize for the China Commerce Federation Service Industry Scientific and Technological Innovation Award in 2021 for "Research and Application of Key Technologies for Customized Smart Education Enabled by Collaborative Cloud-Network-Edge-End".
+* [5]. Zou Sai, Xiao Shan, Huang Chengguo, Zhang Yuanyuan, Chen Hong, Ma Yi, Liang Changzhu. Third Prize for Chongqing Science and Technology Progress Award in 2022 for "Key Technologies and Applications of Cloud-Network Collaborative Smart Education Edge Computing Platform".
+* [6]. Zou Sai, Xu Lei, Li Faping, Jiang Zhisheng, Luo Zhengyue, Xiao Lei, Tian Linfeng. Third Prize for Chongqing Science and Technology Progress Award in 2021 for "Key Technologies and Applications for Automatic Generation of Virtualized Network Slices".
+* [7]. Recipient of Chongqing Youth Bayu Scholar in 2019.
+* [8]. Third Prize for Teaching Achievement Award in 2018 from Hunan Provincial Education Department for "Innovation and Practice of Talent Cultivation Mode for Internet of Things Application Technology Based on Industry-University-Research Collaborative Education".
+* [9]. Recipient of Luyan Scholarship from Xiamen University in 2017.
+* [10]. Third Prize for Teaching Achievement Award in 2013 from Hunan Provincial Education Department for "Innovation and Practice of Operation and Management of Internship in Higher Vocational Education".
+* [11]. Received Excellent Annual Evaluation from Chongqing Vocational Institute of Electronic Engineering in 2012.
+* [12]. Received Excellent Annual Evaluation from Hengyang Normal University in 2007.
  
  
