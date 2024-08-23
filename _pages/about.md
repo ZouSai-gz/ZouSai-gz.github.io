@@ -17,11 +17,16 @@ Academic Field
 ======
 Professor Zou has been engaged in wireless networks, software development, and bioinformatics research in universities and enterprises. He has published over 30 SCI papers, authored two textbooks, held more than 10 software copyrights, and been granted over 20 invention patents. He has led the development of two industry standards, one ETSI standard, and participated in eight other industry standards. He has also received two first-prize provincial scientific and technological progress awards, one second-prize, and two third-prizes, as well as two third-prize provincial teaching achievement awards. As the principal investigator or key researcher, he has participated in national 863 projects, national 973 projects, the National Natural Science Foundation of China, the National Social Science Fund, projects funded by the Ministry of Education, and relevant provincial and municipal funds.
 
+
 Education
 ------
 September 2000 - June 2004: Bachelor's Degree in Computer Science, Hengyang Normal University
+
 September 2005 - December 2007: Master's Degree in Software Engineering, Hunan University, Supervised by Professor Zhang Dafang and Professor Wang Lei
-September 2014 - December 2018: Doctoral Degree in Information Science, Xiamen University, Supervised by Professor Zhuang Weihua (Fellow of the Canadian Engineering Institute, IEEE Fellow, Thousand Talents Program Recipient), and Professor Tang Yuliang
+
+September 2014 - December 2018: Doctoral Degree in Information Science, Xiamen University, Supervised by Professor Zhuang Weihua (Fellow of the Canadian Engineering Institute, IEEE Fellow, Thousand Talents Program 
+
+Recipient), and Professor Tang Yuliang
 
 Work Experience
 ------
