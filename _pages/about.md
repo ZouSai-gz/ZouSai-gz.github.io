@@ -55,7 +55,8 @@ Social Part-time Positions:
 2020 - Senior Member, IEEE
 2022 - Member, CCF
 2022 - Senior Member, Communications Association
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+ 
+ 
 
  
