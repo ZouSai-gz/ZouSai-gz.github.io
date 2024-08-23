@@ -4,33 +4,66 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+Published papers
+---------------
+[1]Wang, Wenxun and Wang, Wenyong and Yu, Haisheng and Wu, Bochun and Zou, Sail., "Joint Routing and Scheduling for In-Vehicle Networks: A Deterministic Perspective," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3397645
+[2]Q. Wang, S. Zou, Y. Sun, M. Liwang, X. Wang and W. Ni, "Towards Intelligent and Adaptive Task Scheduling for 6G: An Intent-Driven Framework," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3391318
+[3]W. Yang, S. Zou, H. Gao, L. Wang and W. Ni, "A Novel Method for Targeted Identification of Essential Proteins by Integrating Chemical Reaction Optimization and Naive Bayes Model," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2024.3382392.
+[4]Hanyu Lu, Chen Shang, Sai zou*, Lihong Cheng, Shikong Yang, Lei Wang. A Novel Method for Predicting Essential Proteins by Integrating Multidimensional Biological Attribute Information and Topological Properties. Current Bioinformatics. 2022
+[5]Junrui Wu, Wenyong Wang, Sai Zou*, Wei Ni, Lisheng Huang and Yong Tang. Can Video as a Service Paradigm Lead to the Future Internet of Video Things? Computer. 56(11):73 - 84, 2023
+[6]Wenxuan Wang, Wenyong Wang, Bochun Wu, Sai Zou, Haisheng Yu, Wei Ni, Ji Zhang. Qmix-Based Cross-Domain Transmission Routing For Time-Sensitive And Deterministic Networks, SPAWC 2023.
+[7]Yue Guan, Sai Zou*, Bochun Wu, Kai Li, Wei Ni. MAPPO-Based Cooperative UAV Trajectory Design With Long-Range Emergency Communications in Disaster Areas, WoLoLo'23.
+[8]Yue Guan, Sai Zou*, Haixia Peng*, Wei Ni, Yanglong Sun*, Hongfeng Gao. Cooperative UAV Trajectory Design for Disaster Area Emergency Communications: A Multi-Agent PPO Method, IEEE Internet of Things. 2023
+[9]Sai Zou *, Yunbin Hu, Wenya Yang. A framework for identifying essential proteins with hybridizing deep neural network and ordinary least squares, Applied Sciences, 2023
+[10]Sai Zou, Wenyong Wang, Wei Ni, Efficiency-optimized 6G: A Virtual Network Resource Orchestration Strategy by Enhanced Particle Swarm Optimization， Digital Communications and Networks，2023.7
+[11]Sai Zou, Wenyong Wang, Wei Ni, Lei Wang, YuLiang Tang. Efficient Orchestration of Virtualization Resource in RAN of IoT Based on Chemical Reaction Optimization and Q-learning, IEEE Internet of Things. 2022
+[12]Sai Zou，Haisheng Yu, Wenyong Wang, Wei Ni. A Framework for Automatic Generation of Network Slices in Multi-access Edge Computing, IEEE Internet of Things Magazine. 2022.
+[13]Yan Liu, Haisheng Yu, Wenyong Wang, Sai Zou, Dong Liu, Daobiao Gong and Zhen Li. A Robust Blockchain-Based Distribution Master For Distributing Root Zone Data In DNS, The Computer Journal, 2022.
+[14]Haisheng Yu , Zhixian Liu, Sai Zou and Wenyong Wang. CPACK: An Intelligent Cyber-Physical Access Control Kit for Protecting Network, Sensors, 2022.
+[15]lei xiao, Sai Zou*. Optimize efficiency of Orchestration in Virtualized Radio Access Network Functions, ICCC, 2021.
+[16]Zou Sai，Tang YuLiang*，Ni Wei, liu Renping, Lei Wang, Resource Multi-Objective Mapping Algorithm based on Virtualized Network Functions: RMMA, Applied Soft Computing,2018 
+[17]Sai Zou, Yuliang Tang*, An Identification Decision Tree Learning Model for Self-management in Virtual Radio Access Network:IDTLM, IEEE Access, 2017.10
+[18]Zou Sai，Tang YuLiang*. Optimized algorithm of sensor nodes deployment for agricultural intelligent monitoring. Computers and Electronics in Agriculture, 2016.9 
+[19]Wang, L; Zhao, M; Chen, J; Li, XY; Chen, ZP; Tang, YH; Zou, S*， A novel privacy- and integrity-preserving approach for multidimensional data range queries in two-tiered wireless sensor networks, International Journal Of Distributed Sensor Networks,2019,vol.15, no.6
+[20]Chen,ZX; Zou, S ; Tang, YL* ; Du, XJ ; Guizani, M，Radio resource coordination and scheduling scheme in ultra-dense cloud-based small cell networks，EURASIP Journal On Wireless Communications And Networking，2018,vol.137
+[21]Zou Sai，Tang YuLiang*, “RSCMF : A Resource Mapping Framework for Scalable Collaboration in Radio Access Networks with SDR and Virtualization”， Journal of Internet Technology 
+[22]Zou Sai, Lei Wang*, A 2D Graphical Representation of Protein Sequence and Its Application.Journalof Computational and Theoretical Nanoscience，2015.9
+[23]Zou Sai, Xiao Lei, Yang Fan, Tang YuLiang*. The resource mapping algorithm of wireless virtualized network for saving energy in super dense small cells. Mobile Information Systems.2015.12 
+[24]Zou Sai*,Wang Wei,Wang Wenyong, A routing algorithm on delay tolerant of wireless sensor network based on the node selfishness，EURASIP Journal on Wireless Communications and Networking，2013.8
+[25]Sai Zou, Lei Wang*, Junfeng Wang，A 2D Graphical Representation of the Sequences of DNA Based on Triplets and Its Application，EURASIP Journal on Bioinformatics and Systems Biology，2014.1
+[26]Zou Sai *, Wang Wenyong, Tang Yong, Zhang Jun, routing algorithm for convergence node location optimization in heterogeneous sensor network, Journal of Communications, 2013.8 (EI)
+[27]Zou Sai *, Wang Wenyong. Entropy-based wireless sensor network routing algorithm in dynamic water environment, Journal of Xidian University, 2013.8 (EI)
+[28]Sai Zou*,Yangxian Zhang, YuLiang Tang，“Resource allocation mechanism based on two-step mapping for saving energy in wireless network virtualization”，2015ASID
+[29]Sai Zou*, Yifeng Zhao, Yuliang Tang，“A novel algorithm of virtual resource allocation in heterogeneous radio access networks”2016 ICCSE
+[30]Zou Sai *, Wang Lei, Zhang Dafang. Research on directional routing algorithm of wireless sensor network based on square grid dissection. Journal of Sensing Technology. 2008.5
+[31]Zou Sai*,Zou Fei,Xu Yuming. A Distributed approximate algorithm for minimal connected cover set problem in sensor networks. In:International Conference on communications and Mobile Computing , Kunming, yunnan, chain,CMC,2009,pages 556-562.
+[32]Zou Sai *, Wang Lei, Zhang Dafang. Research on data exchange algorithm based on wireless sensor network. Microelectronics and computers. 2009.6
+[33]Zou Sai *, Xu Yuming, Zou Fei. Low-power routing algorithm for sensor networks based on data exchange. Sensors and microsystems. 2009.2
+[34]Zou Sai*.Based on orthogonal coordinate coding of Sensor Networks the nearest Minimal .2010 IUCE
+[35]Zou Sai*.Research on Connection and Coverage Algorithm in Sensor Networks.2010 ICTAE
+[36]Zou Sai *. Research on the teaching mode of Computer Network Course. Journal of Inner Mongolia University (Natural Science Edition). 2013.7
+[37]Zou Sai *; Hu Yunbing, research and design of mobile sensor nodes in water environment, Journal of Southwest Normal University (Natural Science) 2013.5
+[38]Zou Sai *, Wang Wenyong, based on Voronoi grid sensor network algorithm, Journal of Southwest Normal University (Natural Science) 2014.5
+[39]Yipeng Lan, Yuliang Tang* ,Sai Zou“Research and implementation of mobile internet services identification system”，2015ICCSE
+[40]Yang Fan, Lin zhijian Zou Sai, Tang Yuliang*. “A TDMA-based cooperative MAC protocol for vehicular ad hoc networks”. Journal of Computational Information Systems, 2015.5
+[41]Fan Yang,Sai Zou,Yuliang Tang*,Xiaojiang Du, “A multi-channel cooperative clustering-based MAC protocol for V2V communications”, Wireless Communications and Mobile Computing, Volume 16, Issue 18, pages 3295–3306, 25 December 2016,DOI: 10.1002/wcm.2759
+[42]Li, Min, Zou, Sai*; Wu, Chaoyun . The approximate minimum set of connecting and covering arithmetic for sensor network partitioned by regular hexagons. Sensors and Transducers,2014.1
+[43]Liu Changming, Li Lin, Zou Sai*,Wang, Ruru. The improvement and analysis of vector Gaussian approximation in signal space diversity.Journal of Computational Information Systems,2011.10
+[44]Zou Sai, Wang Lei, Zhang Dafang *. Research on low power consumption in wireless sensor network based on normal distribution. micoprocessor. 2007.1
+[45]Nie Qiang; Zou Sai*; Liu Zhongli, research on monitoring and informatization of higher vocational college graduation design process based on information platform integration, Journal of Southwest Normal University (Natural Science Edition), 2011-08-20
+Awards Received
+--------------
+[1]. Zou Sai, Recipient of Guizhou Provincial Thousand Talents Innovation Program in 2022, Qianrenlingbanfa (2021) No. 4, 5G Network Slice Intelligent Orchestration System.
+[2]. Zou Sai, Wang Wenyong, Yu Haisheng, Gao Hongfeng, Huang Lisheng, Tang Yong, Xiao Lei, Shang Chen, Li Peng, Xie Mingshan. First Prize for the China Commercial Federation Scientific and Technological Progress Award in 2022 for "Key Technologies and Applications for Deterministic Cloud-Network-Edge-End Collaborative Orchestration".
+[3]. Wang Wenyong, Zou Sai, Zheng Chengyu, Chen Xiaolong, Huang Lisheng, Tang Yong, Yu Haisheng, Lin Hai, Wu Junrui. Second Prize for the China Institute of Communications Science and Technology Progress Award in 2022 for "Key Technologies and Applications for Deterministic Transmission across Layers and Domains in the Internet".
+[4]. Zou Sai, Wang Lei, Xiao Shan, Huang Chengguo, Li Faping, Zhang Yuanyuan, Li Faming, Xu Lei, Xiao Lei. First Prize for the China Commerce Federation Service Industry Scientific and Technological Innovation Award in 2021 for "Research and Application of Key Technologies for Customized Smart Education Enabled by Collaborative Cloud-Network-Edge-End".
+[5]. Zou Sai, Xiao Shan, Huang Chengguo, Zhang Yuanyuan, Chen Hong, Ma Yi, Liang Changzhu. Third Prize for Chongqing Science and Technology Progress Award in 2022 for "Key Technologies and Applications of Cloud-Network Collaborative Smart Education Edge Computing Platform".
+[6]. Zou Sai, Xu Lei, Li Faping, Jiang Zhisheng, Luo Zhengyue, Xiao Lei, Tian Linfeng. Third Prize for Chongqing Science and Technology Progress Award in 2021 for "Key Technologies and Applications for Automatic Generation of Virtualized Network Slices".
+[7]. Recipient of Chongqing Youth Bayu Scholar in 2019.
+[8]. Third Prize for Teaching Achievement Award in 2018 from Hunan Provincial Education Department for "Innovation and Practice of Talent Cultivation Mode for Internet of Things Application Technology Based on Industry-University-Research Collaborative Education".
+[9]. Recipient of Luyan Scholarship from Xiamen University in 2017.
+[10]. Third Prize for Teaching Achievement Award in 2013 from Hunan Provincial Education Department for "Innovation and Practice of Operation and Management of Internship in Higher Vocational Education".
+[11]. Received Excellent Annual Evaluation from Chongqing Vocational Institute of Electronic Engineering in 2012.
+[12]. Received Excellent Annual Evaluation from Hengyang Normal University in 2007.
 
 
