@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 *September 2000 - June 2004: Bachelor's Degree in Computer Science, Hengyang Normal University
+
 *September 2005 - December 2007: Master's Degree in Software Engineering, Hunan University, Supervised by Professor Zhang Dafang and Professor Wang Lei
+
 *September 2014 - December 2018: Doctoral Degree in Information Science, Xiamen University, Supervised by Professor Zhuang Weihua (Fellow of the Canadian Engineering Institute, IEEE Fellow, Thousand Talents Program Recipient), and Professor Tang Yuliang
 
 Work experience
